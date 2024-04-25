@@ -1,0 +1,7 @@
+/credentials.json
+/payload.json
+/cr.json
+/new.py
+/token.pickle
+/.coverage
+/.pytest_cache
